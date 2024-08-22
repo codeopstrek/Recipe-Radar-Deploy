@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recipe-Radar-Deploy/static/css/main.4e2781ff.css",
+    "main.js": "/Recipe-Radar-Deploy/static/js/main.d5454669.js",
+    "static/js/453.18cb662d.chunk.js": "/Recipe-Radar-Deploy/static/js/453.18cb662d.chunk.js",
+    "index.html": "/Recipe-Radar-Deploy/index.html",
+    "main.4e2781ff.css.map": "/Recipe-Radar-Deploy/static/css/main.4e2781ff.css.map",
+    "main.d5454669.js.map": "/Recipe-Radar-Deploy/static/js/main.d5454669.js.map",
+    "453.18cb662d.chunk.js.map": "/Recipe-Radar-Deploy/static/js/453.18cb662d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e2781ff.css",
+    "static/js/main.d5454669.js"
+  ]
+}
